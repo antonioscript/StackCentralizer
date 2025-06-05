@@ -4,7 +4,6 @@
 
 ---
 
----
 
 ## Index
 
@@ -32,15 +31,15 @@
 
 - [EShopMicroservices](https://github.com/antonioscript/EShopMicroservices)  
   Full-featured .NET microservices e-commerce application demonstrating best practices for distributed systems. Includes APIs, RabbitMQ, Redis cache, PostgreSQL, MongoDB, CQRS with MediatR, Entity Framework, and the Marten library.  
-  Tags: `dotnet`, `api`, `microservices`, `rabbitmq`, `redis`, `postgresql`, `mongodb`, `marten`, `cqrs`, `mediatr`, `entity-framework`, `orm`, `architecture`, `cache`, `sql`, `nosql`, `containers`, `docker`, 'jwt', 'token'
+  Tags: `dotnet`, `api`, `microservices`, `rabbitmq`, `redis`, `postgresql`, `mongodb`, `marten`, `cqrs`, `mediatr`, `entity-framework`, `orm`, `architecture`, `cache`, `sql`, `nosql`, `containers`, `docker`, 'jwt', 'token', `authentication`, `architecture`
 
 - [MedicalClinicAPI](https://github.com/antonioscript/MedicalClinicAPI)  
   Modular .NET application simulating a medical clinic system. Includes RESTful APIs, MediatR, Clean Architecture, PostgreSQL, Redis cache, CQRS, and Entity Framework.  
-  Tags: `dotnet`, `api`, `clean-architecture`, `mediatr`, `cqrs`, `postgresql`, `redis`, `entity-framework`, `architecture`, `cache`, `sql`, jwt', 'token'
+  Tags: `dotnet`, `api`, `clean-architecture`, `mediatr`, `cqrs`, `postgresql`, `redis`, `entity-framework`, `architecture`, `cache`, `sql`, jwt', 'token', `authentication`, `architecture`
 
 - [Microservices.AKS.Devops](https://github.com/antonioscript/Microservices.AKS.Devops)  
   Microservices project with .NET APIs deployed on Azure Kubernetes Service (AKS) with CI/CD pipelines. Includes Docker, Kubernetes, Redis, PostgreSQL, RabbitMQ, and DevOps infrastructure as code.  
-  Tags: `dotnet`, `api`, `microservices`, `aks`, `kubernetes`, `devops`, `azure`, `ci-cd`, `rabbitmq`, `redis`, `postgresql`, `cloud`, `infrastructure`, `sql`, `messaging`, `containers`, `docker`
+  Tags: `dotnet`, `api`, `microservices`, `aks`, `kubernetes`, `devops`, `azure`, `ci-cd`, `rabbitmq`, `redis`, `postgresql`, `cloud`, `infrastructure`, `sql`, `messaging`, `containers`, `docker`, `architecture`
 
 - [RedisAPI.NET](https://github.com/antonioscript/RedisAPI.NET)  
   .NET API example that demonstrates integration with Redis for caching and fast data retrieval. Useful for scenarios requiring low-latency key-value access.  
@@ -281,7 +280,8 @@
 
 ## Global Tags
 
-`dotnet` · `nodejs` · `nestjs` · `typescript` · `api` · `cloud` · `devops` · `auth` · `messaging` · `scheduler` · `architecture` · `testing` · `middleware` · `nosql` · `sql` · `database` · `rabbitmq` · `event-driven` · `microservices` · `aws` · `sqs` · `vscode` · `developer-tools` · `mediator` · `cqrs` · `redis` · `caching` · `performance` · `azure` · `ci-cd` · `kubernetes` · `containers` · `postgresql` · `mongodb` · `marten` · `entity-framework` · `orm` · `clean-architecture` · `fundamentals` · `boilerplate` · `unit-tests` · `tdd` · `xunit` · `moq` · `code-quality` · `cheatsheet` · `snippets` · `reference` · `study` · `onion-architecture` · `minimal-api` · `crud` · `heroes` · `authentication` · `authorization` · `jwt` · `identity`
+`ak` · `alb` · `api` · `api-gateway` · `architecture` · `aspnetcore` · `authentication` · `authorization` · `aws` · `azure` · `background-tasks` · `boilerplate` · `cache` · `caching` · `centralizer` · `cheatsheet` · `ci-cd` · `clean-architecture` · `cloud` · `cluster` · `code-quality` · `compute` · `containers` · `course` · `crud` · `csharp` · `database` · `data-access` · `design-patterns` · `developer-tools` · `devops` · `dns` · `docker` · `domain` · `dotnet` · `ecs` · `editor` · `ef-core` · `elb` · `entity-framework` · `essentials` · `event-driven` · `fargate` · `files` · `functions` · `fundamentals` · `gateway` · `hangfire` · `heroes` · `identity` · `index` · `infrastructure` · `javascript` · `jobs` · `jq` · `jwt` · `kubernetes` · `language` · `learning` · `linq` · `load-balancer` · `logging` · `mapper` · `masstransit` · `mediator` · `mediatR` · `messaging` · `metrics` · `microservices` · `minimal-api` · `migrations` · `moq` · `monitoring` · `mongodb` · `marten` · `networking` · `nestjs` · `nodejs` · `nosql` · `notifications` · `oauth` · `onion-architecture` · `oop` · `orm` · `performance` · `pg` · `postgresql` · `policies` · `productivity` · `pubsub` · `queue` · `queries` · `rabbitmq` · `reference` · `relational-db` · `repository-pattern` · `rest` · `roles` · `route53` · `scheduler` · `security` · `serverless` · `setup` · `snippets` · `sql` · `starter` · `storage` · `study` · `template`
+
 
 ---
 
