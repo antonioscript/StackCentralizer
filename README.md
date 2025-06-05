@@ -10,7 +10,18 @@
 ---
 
 ## Messaging and Event-Driven Architecture
-<!-- RabbitMQ, Kafka, Azure Service Bus, MassTransit, Outbox -->
+
+- [RabbitMQProducerConsumer](https://github.com/antonioscript/RabbitMQProducerConsumer)  
+  Basic example of a producer and consumer using RabbitMQ with native client libraries. Good for learning core messaging concepts like queues and exchanges.  
+  Tags: `rabbitmq`, `messaging`, `producer`, `consumer`, `dotnet`, `queue`
+
+- [RabbitMQ.MassTransit](https://github.com/antonioscript/RabbitMQ.MassTransit)  
+  Implementation using MassTransit to simplify RabbitMQ integration in .NET applications. Demonstrates publishers, consumers, and message configuration.  
+  Tags: `rabbitmq`, `masstransit`, `messaging`, `event-driven`, `dotnet`
+
+- [MicroRabbit](https://github.com/antonioscript/MicroRabbit)  
+  Microservice-based architecture using RabbitMQ for event-driven communication in a modular .NET solution. Good reference for domain-driven message flows.  
+  Tags: `rabbitmq`, `messaging`, `microservices`, `event-driven`, `dotnet`
 
 ---
 
@@ -99,7 +110,7 @@
 
 ## Global Tags
 
-`dotnet` · `nodejs` · `api` · `cloud` · `devops` · `auth` · `messaging` · `scheduler` · `architecture` · `testing` · `middleware` · `nosql` · `sql` · `database`
+`dotnet` · `nodejs` · `api` · `cloud` · `devops` · `auth` · `messaging` · `scheduler` · `architecture` · `testing` · `middleware` · `nosql` · `sql` · `database` · `rabbitmq` · `event-driven` · `microservices`
 
 ---
 
