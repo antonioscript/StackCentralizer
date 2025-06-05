@@ -61,7 +61,11 @@
 ---
 
 ## Job Scheduling and Background Tasks
-<!-- Hangfire, Quartz.NET, Cron Jobs, Workers -->
+
+- [API.Hangfire.NET](https://github.com/antonioscript/API.Hangfire.NET)  
+  Background job processing in .NET using Hangfire. Includes scheduled tasks, retries, dashboard UI, and integration with ASP.NET APIs.  
+  Tags: `dotnet`, `hangfire`, `jobs`, `background-tasks`, `scheduler`, `queue`, `aspnetcore`
+
 
 ---
 
@@ -184,14 +188,6 @@
 - [EntityFramework](https://github.com/antonioscript/EntityFramework)  
   Practical examples of using Entity Framework in .NET applications. Demonstrates database modeling, DbContext, migrations, and LINQ queries.  
   Tags: `dotnet`, `entity-framework`, `orm`, `database`, `migrations`, `linq`, `data-access`
-
----
-
-## Middleware and Cross-Cutting Concerns
-
-- [Middleware.NET](https://github.com/antonioscript/Middleware.NET)  
-  Custom middleware components for ASP.NET Core, showcasing request interception, pipeline control, and modular behavior.  
-  Tags: `dotnet`, `aspnetcore`, `middleware`, `cross-cutting`
 
 ---
 
