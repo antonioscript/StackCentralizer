@@ -4,19 +4,43 @@
 
 ---
 
+---
+
+## Index
+
+- [API Development](#api-development)
+- [Messaging and Event-Driven Architecture](#messaging-and-event-driven-architecture)
+- [Job Scheduling and Background Tasks](#job-scheduling-and-background-tasks)
+- [Authentication and Authorization](#authentication-and-authorization)
+- [Cloud and DevOps](#cloud-and-devops)
+  - [AWS](#aws)
+  - [Azure](#azure)
+- [Data and Storage](#data-and-storage)
+  - [Relational Databases](#relational-databases)
+  - [NoSQL and Caching](#nosql-and-caching)
+  - [ORM and Data Access](#orm-and-data-access)
+- [Architecture and Design Patterns](#architecture-and-design-patterns)
+- [Testing and Code Quality](#testing-and-code-quality)
+- [Utilities and Developer Tools](#utilities-and-developer-tools)
+- [Templates and Boilerplates](#templates-and-boilerplates)
+- [Global Tags](#global-tags)
+
+---
+
+
 ## API Development
 
 - [EShopMicroservices](https://github.com/antonioscript/EShopMicroservices)  
   Full-featured .NET microservices e-commerce application demonstrating best practices for distributed systems. Includes APIs, RabbitMQ, Redis cache, PostgreSQL, MongoDB, CQRS with MediatR, Entity Framework, and the Marten library.  
-  Tags: `dotnet`, `api`, `microservices`, `rabbitmq`, `redis`, `postgresql`, `mongodb`, `marten`, `cqrs`, `mediatr`, `entity-framework`, `orm`, `architecture`, `cache`, `sql`, `nosql`
+  Tags: `dotnet`, `api`, `microservices`, `rabbitmq`, `redis`, `postgresql`, `mongodb`, `marten`, `cqrs`, `mediatr`, `entity-framework`, `orm`, `architecture`, `cache`, `sql`, `nosql`, `containers`, `docker`, 'jwt', 'token'
 
 - [MedicalClinicAPI](https://github.com/antonioscript/MedicalClinicAPI)  
   Modular .NET application simulating a medical clinic system. Includes RESTful APIs, MediatR, Clean Architecture, PostgreSQL, Redis cache, CQRS, and Entity Framework.  
-  Tags: `dotnet`, `api`, `clean-architecture`, `mediatr`, `cqrs`, `postgresql`, `redis`, `entity-framework`, `architecture`, `cache`, `sql`
+  Tags: `dotnet`, `api`, `clean-architecture`, `mediatr`, `cqrs`, `postgresql`, `redis`, `entity-framework`, `architecture`, `cache`, `sql`, jwt', 'token'
 
 - [Microservices.AKS.Devops](https://github.com/antonioscript/Microservices.AKS.Devops)  
   Microservices project with .NET APIs deployed on Azure Kubernetes Service (AKS) with CI/CD pipelines. Includes Docker, Kubernetes, Redis, PostgreSQL, RabbitMQ, and DevOps infrastructure as code.  
-  Tags: `dotnet`, `api`, `microservices`, `aks`, `kubernetes`, `devops`, `azure`, `ci-cd`, `rabbitmq`, `redis`, `postgresql`, `cloud`, `infrastructure`, `sql`, `messaging`, `containers`
+  Tags: `dotnet`, `api`, `microservices`, `aks`, `kubernetes`, `devops`, `azure`, `ci-cd`, `rabbitmq`, `redis`, `postgresql`, `cloud`, `infrastructure`, `sql`, `messaging`, `containers`, `docker`
 
 - [RedisAPI.NET](https://github.com/antonioscript/RedisAPI.NET)  
   .NET API example that demonstrates integration with Redis for caching and fast data retrieval. Useful for scenarios requiring low-latency key-value access.  
