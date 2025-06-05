@@ -77,9 +77,72 @@
 
 ### AWS
 
+### AWS
+
+- [AWS.NET](https://github.com/antonioscript/AWS.NET)  
+  Repository created to organize .NET applications using AWS services. Acts as a central index for Lambda, EC2, S3, VPC, and more.  
+  Tags: `aws`, `dotnet`, `cloud`, `architecture`, `centralizer`, `infrastructure`
+
+- [AWS.Lambda.NET](https://github.com/antonioscript/AWS.Lambda.NET)  
+  Serverless function examples using AWS Lambda with .NET. Demonstrates setup, triggers, handlers, and deployment via AWS CLI or SAM.  
+  Tags: `aws`, `lambda`, `serverless`, `dotnet`, `cloud`, `functions`
+
+- [API.NET.AWS.Lambda](https://github.com/antonioscript/API.NET.AWS.Lambda)  
+  Example of a .NET API deployed to AWS Lambda using API Gateway. Combines RESTful endpoints with serverless execution.  
+  Tags: `aws`, `lambda`, `api`, `serverless`, `dotnet`, `api-gateway`
+
+- [API.NET.AWS.EC2](https://github.com/antonioscript/API.NET.AWS.EC2)  
+  Hosting a .NET Web API on an EC2 instance. Includes deployment scripts, configuration, and setup for virtual servers.  
+  Tags: `aws`, `ec2`, `dotnet`, `api`, `infrastructure`, `compute`, `virtual-machine`
+
+- [API.NET.SimpleCluster.ECS](https://github.com/antonioscript/API.NET.SimpleCluster.ECS)  
+  Simple ECS cluster setup using Fargate to deploy a .NET API in containers. Includes service/task definitions and load balancing.  
+  Tags: `aws`, `ecs`, `fargate`, `api`, `cluster`, `containers`, `dotnet`
+
+- [API.NET.AWS.ECS](https://github.com/antonioscript/API.NET.AWS.ECS)  
+  Docker-based .NET API deployed to AWS ECS with scalable infrastructure. Focuses on container orchestration and networking.  
+  Tags: `aws`, `ecs`, `docker`, `containers`, `api`, `dotnet`, `devops`
+
+- [AWS.VPC](https://github.com/antonioscript/AWS.VPC)  
+  Configuration and management of custom Virtual Private Clouds (VPC) in AWS. Includes subnets, route tables, and security groups.  
+  Tags: `aws`, `vpc`, `networking`, `cloud`, `infrastructure`, `devops`
+
+- [AWS.IAM](https://github.com/antonioscript/AWS.IAM)  
+  Identity and Access Management (IAM) examples for defining users, roles, and policies in AWS.  
+  Tags: `aws`, `iam`, `security`, `roles`, `policies`, `access-control`
+
+- [API.NET.AWS.S3](https://github.com/antonioscript/API.NET.AWS.S3)  
+  File upload/download integration with AWS S3 from a .NET API. Demonstrates bucket access, presigned URLs, and storage operations.  
+  Tags: `aws`, `s3`, `dotnet`, `storage`, `files`, `api`, `cloud`
+
+- [AWS.CloudWatch](https://github.com/antonioscript/AWS.CloudWatch)  
+  Monitoring and logging in AWS with CloudWatch. Covers custom metrics, logs, dashboards, and alarms.  
+  Tags: `aws`, `cloudwatch`, `monitoring`, `logging`, `observability`, `metrics`
+
+- [AWS.APIGateway.NET](https://github.com/antonioscript/AWS.APIGateway.NET)  
+  Gateway configurations to expose and secure .NET APIs via AWS API Gateway. Supports custom domains, stages, and throttling.  
+  Tags: `aws`, `api-gateway`, `api`, `dotnet`, `gateway`, `rest`
+
+- [AWS.Cognito.NET](https://github.com/antonioscript/AWS.Cognito.NET)  
+  Authentication via AWS Cognito in .NET apps. Includes user pool setup, token validation, and secured routes.  
+  Tags: `aws`, `cognito`, `auth`, `jwt`, `security`, `dotnet`
+
+- [AWS.Route53](https://github.com/antonioscript/AWS.Route53)  
+  DNS management using AWS Route 53. Demonstrates hosted zones, record sets, and domain routing.  
+  Tags: `aws`, `route53`, `dns`, `networking`, `cloud`, `infrastructure`
+
+- [AWS.ElasticLoadBalancing](https://github.com/antonioscript/AWS.ElasticLoadBalancing)  
+  Setup of Application and Network Load Balancers (ALB/NLB) for .NET services. Includes listener rules and target groups.  
+  Tags: `aws`, `elb`, `alb`, `nlb`, `load-balancer`, `cloud`, `dotnet`
+
 - [AWS.SQS.NET](https://github.com/antonioscript/AWS.SQS.NET)  
-  Integration with AWS Simple Queue Service (SQS) using .NET. Demonstrates sending and receiving messages through AWS-managed queues with configuration and message handling.  
-  Tags: `aws`, `sqs`, `cloud`, `messaging`, `dotnet`
+  Integration with AWS Simple Queue Service (SQS) using .NET. Demonstrates sending and receiving messages through AWS-managed queues.  
+  Tags: `aws`, `sqs`, `cloud`, `messaging`, `dotnet`, `queue`
+
+- [AWS.SNS.NET](https://github.com/antonioscript/AWS.SNS.NET)  
+  Pub/Sub messaging in AWS using Simple Notification Service (SNS). Includes topic creation, subscriptions, and publishing from .NET.  
+  Tags: `aws`, `sns`, `messaging`, `pubsub`, `dotnet`, `notifications`
+
 
 ### Azure
 
