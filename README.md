@@ -41,7 +41,10 @@
 ## Data and Storage
 
 ### Relational Databases
-<!-- PostgreSQL, SQL Server -->
+
+- [CommandsSQL](https://github.com/antonioscript/CommandsSQL)  
+  Collection of raw SQL scripts and command examples for working with relational databases. Includes queries, table creation, joins, and more.  
+  Tags: `sql`, `relational-db`, `queries`, `database`, `postgresql`
 
 ### NoSQL and Caching
 
@@ -96,7 +99,7 @@
 
 ## Global Tags
 
-`dotnet` · `nodejs` · `api` · `cloud` · `devops` · `auth` · `messaging` · `scheduler` · `architecture` · `testing` · `middleware` · `nosql` · `mongodb`
+`dotnet` · `nodejs` · `api` · `cloud` · `devops` · `auth` · `messaging` · `scheduler` · `architecture` · `testing` · `middleware` · `nosql` · `sql` · `database`
 
 ---
 
