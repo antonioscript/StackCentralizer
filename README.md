@@ -81,8 +81,6 @@
 
 ### AWS
 
-### AWS
-
 - [AWS.NET](https://github.com/antonioscript/AWS.NET)  
   Repository created to organize .NET applications using AWS services. Acts as a central index for Lambda, EC2, S3, VPC, and more.  
   Tags: `aws`, `dotnet`, `cloud`, `architecture`, `centralizer`, `infrastructure`
