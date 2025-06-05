@@ -107,7 +107,10 @@
 ---
 
 ## Utilities and Developer Tools
-<!-- CLI tools, Git Hooks, Linters -->
+
+- [VisualStudioCode.Tips](https://github.com/antonioscript/VisualStudioCode.Tips)  
+  A collection of tips, extensions, shortcuts, and settings for improving productivity with Visual Studio Code.  
+  Tags: `vscode`, `tips`, `editor`, `developer-tools`, `productivity`
 
 ---
 
@@ -118,7 +121,7 @@
 
 ## Global Tags
 
-`dotnet` · `nodejs` · `api` · `cloud` · `devops` · `auth` · `messaging` · `scheduler` · `architecture` · `testing` · `middleware` · `nosql` · `sql` · `database` · `rabbitmq` · `event-driven` · `microservices` · `aws` · `sqs`
+`dotnet` · `nodejs` · `api` · `cloud` · `devops` · `auth` · `messaging` · `scheduler` · `architecture` · `testing` · `middleware` · `nosql` · `sql` · `database` · `rabbitmq` · `event-driven` · `microservices` · `aws` · `sqs` · `vscode` · `developer-tools`
 
 ---
 
