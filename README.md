@@ -75,6 +75,10 @@
   Integration of MongoDB in a .NET application using the official driver. Includes models, repositories, and connection setup.  
   Tags: `mongodb`, `nosql`, `dotnet`, `database`
 
+- [RedisAPI.NET](https://github.com/antonioscript/RedisAPI.NET)  
+  .NET API example that demonstrates integration with Redis for caching and fast data retrieval. Useful for scenarios requiring low-latency key-value access.  
+  Tags: `redis`, `nosql`, `caching`, `dotnet`, `api`, `performance`
+
 ### ORM and Data Access
 <!-- EF Core, Dapper -->
 
@@ -93,6 +97,10 @@
 - [Middleware.NET](https://github.com/antonioscript/Middleware.NET)  
   Demonstrates the use of middleware as a form of Chain of Responsibility and separation of concerns.  
   See also: [Middleware and Cross-Cutting Concerns](#middleware-and-cross-cutting-concerns)
+
+- [MediatorNET](https://github.com/antonioscript/MediatorNET)  
+  Demonstrates the Mediator design pattern in .NET using MediatR for internal messaging, command/query separation, and loose coupling between components.  
+  Tags: `dotnet`, `mediator`, `design-patterns`, `cqrs`, `mediatR`, `architecture`
 
 ---
 
@@ -121,7 +129,7 @@
 
 ## Global Tags
 
-`dotnet` · `nodejs` · `api` · `cloud` · `devops` · `auth` · `messaging` · `scheduler` · `architecture` · `testing` · `middleware` · `nosql` · `sql` · `database` · `rabbitmq` · `event-driven` · `microservices` · `aws` · `sqs` · `vscode` · `developer-tools`
+`dotnet` · `nodejs` · `api` · `cloud` · `devops` · `auth` · `messaging` · `scheduler` · `architecture` · `testing` · `middleware` · `nosql` · `sql` · `database` · `rabbitmq` · `event-driven` · `microservices` · `aws` · `sqs` · `vscode` · `developer-tools` · `mediator` · `cqrs` · `redis` · `caching` · `performance`
 
 ---
 
