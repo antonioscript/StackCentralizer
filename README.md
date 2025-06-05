@@ -23,6 +23,9 @@
   Microservice-based architecture using RabbitMQ for event-driven communication in a modular .NET solution. Good reference for domain-driven message flows.  
   Tags: `rabbitmq`, `messaging`, `microservices`, `event-driven`, `dotnet`
 
+- [AWS.SQS.NET](https://github.com/antonioscript/AWS.SQS.NET)  
+  See main entry in: [AWS](#aws)
+
 ---
 
 ## Job Scheduling and Background Tasks
@@ -38,6 +41,11 @@
 ## Cloud and DevOps
 
 ### AWS
+
+- [AWS.SQS.NET](https://github.com/antonioscript/AWS.SQS.NET)  
+  Integration with AWS Simple Queue Service (SQS) using .NET. Demonstrates sending and receiving messages through AWS-managed queues with configuration and message handling.  
+  Tags: `aws`, `sqs`, `cloud`, `messaging`, `dotnet`
+
 ### Azure
 ### GCP
 
@@ -110,7 +118,7 @@
 
 ## Global Tags
 
-`dotnet` · `nodejs` · `api` · `cloud` · `devops` · `auth` · `messaging` · `scheduler` · `architecture` · `testing` · `middleware` · `nosql` · `sql` · `database` · `rabbitmq` · `event-driven` · `microservices`
+`dotnet` · `nodejs` · `api` · `cloud` · `devops` · `auth` · `messaging` · `scheduler` · `architecture` · `testing` · `middleware` · `nosql` · `sql` · `database` · `rabbitmq` · `event-driven` · `microservices` · `aws` · `sqs`
 
 ---
 
