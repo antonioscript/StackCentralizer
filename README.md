@@ -44,7 +44,14 @@
 <!-- PostgreSQL, SQL Server -->
 
 ### NoSQL and Caching
-<!-- MongoDB, Redis -->
+
+- [MongoDB](https://github.com/antonioscript/MongoDB)  
+  Introductory MongoDB project demonstrating connection and basic operations using JavaScript or Node.js.  
+  Tags: `mongodb`, `nosql`, `javascript`, `database`
+
+- [MongoDB.NET](https://github.com/antonioscript/MongoDB.NET)  
+  Integration of MongoDB in a .NET application using the official driver. Includes models, repositories, and connection setup.  
+  Tags: `mongodb`, `nosql`, `dotnet`, `database`
 
 ### ORM and Data Access
 <!-- EF Core, Dapper -->
@@ -89,7 +96,7 @@
 
 ## Global Tags
 
-`dotnet` · `nodejs` · `api` · `cloud` · `devops` · `auth` · `messaging` · `scheduler` · `architecture` · `testing` · `middleware` · `cross-cutting`
+`dotnet` · `nodejs` · `api` · `cloud` · `devops` · `auth` · `messaging` · `scheduler` · `architecture` · `testing` · `middleware` · `nosql` · `mongodb`
 
 ---
 
