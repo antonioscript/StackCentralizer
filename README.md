@@ -137,6 +137,11 @@
   Demonstrates the Mediator design pattern in .NET using MediatR for internal messaging, command/query separation, and loose coupling between components.  
   Tags: `dotnet`, `mediator`, `design-patterns`, `cqrs`, `mediatR`, `architecture`
 
+  - [UnitOfWork](https://github.com/antonioscript/UnitOfWork/tree/master)  
+  Implementation of the Unit of Work and Repository patterns in .NET. Useful for managing transactions and consistency across multiple repositories.  
+  Tags: `dotnet`, `unit-of-work`, `repository-pattern`, `architecture`, `design-patterns`, `transaction`
+
+
 ---
 
 ## Testing and Code Quality
@@ -176,6 +181,15 @@
 - [DefaultSystem](https://github.com/antonioscript/DefaultSystem)  
   Standard .NET source code template for building APIs following the Onion Architecture pattern. Includes layered organization, abstractions, and clean separation of concerns.  
   Tags: `dotnet`, `onion-architecture`, `api`, `template`, `clean-code`, `boilerplate`
+
+- [MapperApp](https://github.com/antonioscript/MapperApp)  
+  Template project showcasing practical use of mapping between domain and view models using libraries like AutoMapper in .NET.  
+  Tags: `dotnet`, `automapper`, `mapper`, `template`, `boilerplate`, `architecture`
+
+- [Dotnet-Essential](https://github.com/antonioscript/Dotnet-Essential/tree/master)  
+  Essential .NET boilerplate with core setup, base layers, and reusable components for kickstarting new projects.  
+  Tags: `dotnet`, `starter`, `boilerplate`, `template`, `essentials`, `setup`
+
 
 ---
 
