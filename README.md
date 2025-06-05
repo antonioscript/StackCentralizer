@@ -94,7 +94,7 @@
 
 - [AWS.Lambda.NET](https://github.com/antonioscript/AWS.Lambda.NET)  
   Serverless function examples using AWS Lambda with .NET. Demonstrates setup, triggers, handlers, and deployment via AWS CLI or SAM.  
-  Tags: `aws`, `lambda`, `serverless`, `dotnet`, `cloud`, `functions`
+  Tags: `aws`, `lambda`, `serverless`, `dotnet`, `cloud`, `functions`, `dynamo-db`
 
 - [API.NET.AWS.Lambda](https://github.com/antonioscript/API.NET.AWS.Lambda)  
   Example of a .NET API deployed to AWS Lambda using API Gateway. Combines RESTful endpoints with serverless execution.  
