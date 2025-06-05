@@ -22,6 +22,10 @@
   .NET API example that demonstrates integration with Redis for caching and fast data retrieval. Useful for scenarios requiring low-latency key-value access.  
   Tags: `redis`, `nosql`, `caching`, `dotnet`, `api`, `performance`
 
+- [AutomativeRepairAPI](https://github.com/antonioscript/AutomativeRepairAPI)  
+  RESTful API for an automotive repair system built with NestJS and TypeScript. Implements real-world modules, domain logic, and separation of concerns.  
+  Tags: `nestjs`, `typescript`, `nodejs`, `api`, `rest`, `domain`, `automotive`
+
 ---
 
 ## Messaging and Event-Driven Architecture
@@ -143,11 +147,19 @@
   A complete C# and .NET learning repository covering syntax, object-oriented programming, data structures, and platform basics. Useful as a study base or quick reference.  
   Tags: `dotnet`, `csharp`, `learning`, `fundamentals`, `oop`, `curso`
 
+- [TypeScriptBasic](https://github.com/antonioscript/TypeScriptBasic)  
+  Basic TypeScript learning repository covering the core features of the language such as types, functions, interfaces, generics, and more.  
+  Tags: `typescript`, `learning`, `language`, `fundamentals`, `boilerplate`
+
+- [NestJSJourney](https://github.com/antonioscript/NestJSJourney)  
+  A step-by-step study path for understanding NestJS core concepts. Includes isolated examples of modules, controllers, services, decorators, and more.  
+  Tags: `nestjs`, `typescript`, `nodejs`, `learning`, `study`, `backend-framework`
+
 ---
 
 ## Global Tags
 
-`dotnet` · `nodejs` · `api` · `cloud` · `devops` · `auth` · `messaging` · `scheduler` · `architecture` · `testing` · `middleware` · `nosql` · `sql` · `database` · `rabbitmq` · `event-driven` · `microservices` · `aws` · `sqs` · `vscode` · `developer-tools` · `mediator` · `cqrs` · `redis` · `caching` · `performance` · `azure` · `ci-cd` · `kubernetes` · `containers` · `postgresql` · `mongodb` · `marten` · `entity-framework` · `orm` · `clean-architecture`
+`dotnet` · `nodejs` · `nestjs` · `typescript` · `api` · `cloud` · `devops` · `auth` · `messaging` · `scheduler` · `architecture` · `testing` · `middleware` · `nosql` · `sql` · `database` · `rabbitmq` · `event-driven` · `microservices` · `aws` · `sqs` · `vscode` · `developer-tools` · `mediator` · `cqrs` · `redis` · `caching` · `performance` · `azure` · `ci-cd` · `kubernetes` · `containers` · `postgresql` · `mongodb` · `marten` · `entity-framework` · `orm` · `clean-architecture` · `fundamentals` · `boilerplate`
 
 ---
 
