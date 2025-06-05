@@ -142,6 +142,10 @@
   A collection of tips, extensions, shortcuts, and settings for improving productivity with Visual Studio Code.  
   Tags: `vscode`, `tips`, `editor`, `developer-tools`, `productivity`
 
+- [Cheatsheets_and_Codes](https://github.com/antonioscript/Cheatsheets_and_Codes)  
+  A collection of cheatsheets and code snippets for quick reference across multiple technologies. Ideal for study reinforcement and fast lookup.  
+  Tags: `cheatsheet`, `snippets`, `reference`, `learning`, `developer-tools`, `study`
+
 ---
 
 ## Templates and Boilerplates
@@ -162,7 +166,7 @@
 
 ## Global Tags
 
-`dotnet` · `nodejs` · `nestjs` · `typescript` · `api` · `cloud` · `devops` · `auth` · `messaging` · `scheduler` · `architecture` · `testing` · `middleware` · `nosql` · `sql` · `database` · `rabbitmq` · `event-driven` · `microservices` · `aws` · `sqs` · `vscode` · `developer-tools` · `mediator` · `cqrs` · `redis` · `caching` · `performance` · `azure` · `ci-cd` · `kubernetes` · `containers` · `postgresql` · `mongodb` · `marten` · `entity-framework` · `orm` · `clean-architecture` · `fundamentals` · `boilerplate` · `unit-tests` · `tdd` · `xunit` · `moq` · `code-quality`
+`dotnet` · `nodejs` · `nestjs` · `typescript` · `api` · `cloud` · `devops` · `auth` · `messaging` · `scheduler` · `architecture` · `testing` · `middleware` · `nosql` · `sql` · `database` · `rabbitmq` · `event-driven` · `microservices` · `aws` · `sqs` · `vscode` · `developer-tools` · `mediator` · `cqrs` · `redis` · `caching` · `performance` · `azure` · `ci-cd` · `kubernetes` · `containers` · `postgresql` · `mongodb` · `marten` · `entity-framework` · `orm` · `clean-architecture` · `fundamentals` · `boilerplate` · `unit-tests` · `tdd` · `xunit` · `moq` · `code-quality` · `cheatsheet` · `snippets` · `reference` · `study`
 
 ---
 
