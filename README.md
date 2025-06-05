@@ -51,8 +51,19 @@
 
 ---
 
+## Middleware and Cross-Cutting Concerns
+
+- [Middleware.NET](https://github.com/antonioscript/Middleware.NET)  
+  Custom middleware components for ASP.NET Core, showcasing request interception, pipeline control, and modular behavior.  
+  Tags: `dotnet`, `aspnetcore`, `middleware`, `cross-cutting`
+
+---
+
 ## Architecture and Design Patterns
-<!-- Clean Architecture, CQRS, DDD, Mediator, SOLID -->
+
+- [Middleware.NET](https://github.com/antonioscript/Middleware.NET)  
+  Demonstrates the use of middleware as a form of Chain of Responsibility and separation of concerns.  
+  See also: [Middleware and Cross-Cutting Concerns](#middleware-and-cross-cutting-concerns)
 
 ---
 
@@ -78,7 +89,7 @@
 
 ## Global Tags
 
-`dotnet` · `nodejs` · `api` · `cloud` · `devops` · `auth` · `messaging` · `scheduler` · `architecture` · `testing`
+`dotnet` · `nodejs` · `api` · `cloud` · `devops` · `auth` · `messaging` · `scheduler` · `architecture` · `testing` · `middleware` · `cross-cutting`
 
 ---
 
