@@ -216,7 +216,8 @@
 
 - [Middleware.NET](https://github.com/antonioscript/Middleware.NET)  
   Demonstrates the use of middleware as a form of Chain of Responsibility and separation of concerns.  
-  See also: [Middleware and Cross-Cutting Concerns](#middleware-and-cross-cutting-concerns)
+  Tags: `dotnet`, `middleware`, `design-patterns`, chain-of-responsibility`
+  
 
 - [MediatorNET](https://github.com/antonioscript/MediatorNET)  
   Demonstrates the Mediator design pattern in .NET using MediatR for internal messaging, command/query separation, and loose coupling between components.  
