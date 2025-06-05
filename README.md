@@ -9,8 +9,6 @@
 
 - [API Development](#api-development)
 - [Messaging and Event-Driven Architecture](#messaging-and-event-driven-architecture)
-- [Job Scheduling and Background Tasks](#job-scheduling-and-background-tasks)
-- [Authentication and Authorization](#authentication-and-authorization)
 - [Cloud and DevOps](#cloud-and-devops)
   - [AWS](#aws)
   - [Azure](#azure)
@@ -19,10 +17,13 @@
   - [NoSQL and Caching](#nosql-and-caching)
   - [ORM and Data Access](#orm-and-data-access)
 - [Architecture and Design Patterns](#architecture-and-design-patterns)
+- [Job Scheduling and Background Tasks](#job-scheduling-and-background-tasks)
+- [Authentication and Authorization](#authentication-and-authorization)
 - [Testing and Code Quality](#testing-and-code-quality)
 - [Utilities and Developer Tools](#utilities-and-developer-tools)
 - [Templates and Boilerplates](#templates-and-boilerplates)
 - [Global Tags](#global-tags)
+
 
 ---
 
@@ -206,7 +207,7 @@
   Demonstrates the Mediator design pattern in .NET using MediatR for internal messaging, command/query separation, and loose coupling between components.  
   Tags: `dotnet`, `mediator`, `design-patterns`, `cqrs`, `mediatR`, `architecture`
 
-  - [UnitOfWork](https://github.com/antonioscript/UnitOfWork/tree/master)  
+- [UnitOfWork](https://github.com/antonioscript/UnitOfWork/tree/master)  
   Implementation of the Unit of Work and Repository patterns in .NET. Useful for managing transactions and consistency across multiple repositories.  
   Tags: `dotnet`, `unit-of-work`, `repository-pattern`, `architecture`, `design-patterns`, `transaction`
 
