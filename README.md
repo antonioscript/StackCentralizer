@@ -26,6 +26,14 @@
   RESTful API for an automotive repair system built with NestJS and TypeScript. Implements real-world modules, domain logic, and separation of concerns.  
   Tags: `nestjs`, `typescript`, `nodejs`, `api`, `rest`, `domain`, `automotive`
 
+- [HeroAPI](https://github.com/antonioscript/HeroAPI)  
+  Hero management API built using NestJS and TypeScript. Includes routing, services, and domain-layer organization for real-world backend patterns.  
+  Tags: `nestjs`, `typescript`, `nodejs`, `api`, `rest`, `heroes`, `domain`
+
+- [TodoAPI.MinimalAPI](https://github.com/antonioscript/TodoAPI.MinimalAPI)  
+  .NET Minimal API example for simple CRUD operations using a lightweight HTTP interface. Demonstrates practical usage of modern .NET endpoints.  
+  Tags: `dotnet`, `api`, `minimal-api`, `rest`, `crud`, `lightweight`
+
 ---
 
 ## Messaging and Event-Driven Architecture
@@ -53,7 +61,10 @@
 ---
 
 ## Authentication and Authorization
-<!-- JWT, OAuth2, Identity, Role-based access -->
+
+- [ApiWebIdentity](https://github.com/antonioscript/ApiWebIdentity)  
+  ASP.NET Core API demonstrating authentication and authorization using ASP.NET Identity. Includes user registration, JWT, claims, and role-based access control.  
+  Tags: `dotnet`, `aspnetcore`, `authentication`, `authorization`, `identity`, `jwt`, `security`
 
 ---
 
@@ -64,15 +75,6 @@
 - [AWS.SQS.NET](https://github.com/antonioscript/AWS.SQS.NET)  
   Integration with AWS Simple Queue Service (SQS) using .NET. Demonstrates sending and receiving messages through AWS-managed queues with configuration and message handling.  
   Tags: `aws`, `sqs`, `cloud`, `messaging`, `dotnet`
-
-### Azure
-### GCP
-
-### Infrastructure as Code (IaC)
-<!-- Terraform, Pulumi -->
-
-### Containers and CI/CD
-<!-- Docker, GitHub Actions, Pipelines -->
 
 ---
 
@@ -99,7 +101,10 @@
   Tags: `redis`, `nosql`, `caching`, `dotnet`, `api`, `performance`
 
 ### ORM and Data Access
-<!-- EF Core, Dapper -->
+
+- [EntityFramework](https://github.com/antonioscript/EntityFramework)  
+  Practical examples of using Entity Framework in .NET applications. Demonstrates database modeling, DbContext, migrations, and LINQ queries.  
+  Tags: `dotnet`, `entity-framework`, `orm`, `database`, `migrations`, `linq`, `data-access`
 
 ---
 
@@ -131,11 +136,6 @@
 
 ---
 
-## Front-end and Full Stack
-<!-- React, Blazor, Fullstack Templates -->
-
----
-
 ## Utilities and Developer Tools
 
 - [VisualStudioCode.Tips](https://github.com/antonioscript/VisualStudioCode.Tips)  
@@ -162,11 +162,15 @@
   A step-by-step study path for understanding NestJS core concepts. Includes isolated examples of modules, controllers, services, decorators, and more.  
   Tags: `nestjs`, `typescript`, `nodejs`, `learning`, `study`, `backend-framework`
 
+- [DefaultSystem](https://github.com/antonioscript/DefaultSystem)  
+  Standard .NET source code template for building APIs following the Onion Architecture pattern. Includes layered organization, abstractions, and clean separation of concerns.  
+  Tags: `dotnet`, `onion-architecture`, `api`, `template`, `clean-code`, `boilerplate`
+
 ---
 
 ## Global Tags
 
-`dotnet` · `nodejs` · `nestjs` · `typescript` · `api` · `cloud` · `devops` · `auth` · `messaging` · `scheduler` · `architecture` · `testing` · `middleware` · `nosql` · `sql` · `database` · `rabbitmq` · `event-driven` · `microservices` · `aws` · `sqs` · `vscode` · `developer-tools` · `mediator` · `cqrs` · `redis` · `caching` · `performance` · `azure` · `ci-cd` · `kubernetes` · `containers` · `postgresql` · `mongodb` · `marten` · `entity-framework` · `orm` · `clean-architecture` · `fundamentals` · `boilerplate` · `unit-tests` · `tdd` · `xunit` · `moq` · `code-quality` · `cheatsheet` · `snippets` · `reference` · `study`
+`dotnet` · `nodejs` · `nestjs` · `typescript` · `api` · `cloud` · `devops` · `auth` · `messaging` · `scheduler` · `architecture` · `testing` · `middleware` · `nosql` · `sql` · `database` · `rabbitmq` · `event-driven` · `microservices` · `aws` · `sqs` · `vscode` · `developer-tools` · `mediator` · `cqrs` · `redis` · `caching` · `performance` · `azure` · `ci-cd` · `kubernetes` · `containers` · `postgresql` · `mongodb` · `marten` · `entity-framework` · `orm` · `clean-architecture` · `fundamentals` · `boilerplate` · `unit-tests` · `tdd` · `xunit` · `moq` · `code-quality` · `cheatsheet` · `snippets` · `reference` · `study` · `onion-architecture` · `minimal-api` · `crud` · `heroes` · `authentication` · `authorization` · `jwt` · `identity`
 
 ---
 
