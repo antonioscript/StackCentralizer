@@ -94,7 +94,7 @@
 
 - [AWS.Lambda.NET](https://github.com/antonioscript/AWS.Lambda.NET)  
   Serverless function examples using AWS Lambda with .NET. Demonstrates setup, triggers, handlers, and deployment via AWS CLI or SAM.  
-  Tags: `aws`, `lambda`, `serverless`, `dotnet`, `cloud`, `functions`, `dynamo-db`
+  Tags: `aws`, `lambda`, `serverless`, `dotnet`, `cloud`, `functions`
 
 - [API.NET.AWS.Lambda](https://github.com/antonioscript/API.NET.AWS.Lambda)  
   Example of a .NET API deployed to AWS Lambda using API Gateway. Combines RESTful endpoints with serverless execution.  
@@ -130,7 +130,7 @@
 
 - [AWS.APIGateway.NET](https://github.com/antonioscript/AWS.APIGateway.NET)  
   Gateway configurations to expose and secure .NET APIs via AWS API Gateway. Supports custom domains, stages, and throttling.  
-  Tags: `aws`, `api-gateway`, `api`, `dotnet`, `gateway`, `rest`
+  Tags: `aws`, `api-gateway`, `api`, `dotnet`, `gateway`, `rest`, `lambda`, `dynamo-db`
 
 - [AWS.Cognito.NET](https://github.com/antonioscript/AWS.Cognito.NET)  
   Authentication via AWS Cognito in .NET apps. Includes user pool setup, token validation, and secured routes.  
