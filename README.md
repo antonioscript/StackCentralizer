@@ -5,7 +5,22 @@
 ---
 
 ## API Development
-<!-- REST, GraphQL, gRPC, Gateways -->
+
+- [EShopMicroservices](https://github.com/antonioscript/EShopMicroservices)  
+  Full-featured .NET microservices e-commerce application demonstrating best practices for distributed systems. Includes APIs, RabbitMQ, Redis cache, PostgreSQL, MongoDB, CQRS with MediatR, Entity Framework, and the Marten library.  
+  Tags: `dotnet`, `api`, `microservices`, `rabbitmq`, `redis`, `postgresql`, `mongodb`, `marten`, `cqrs`, `mediatr`, `entity-framework`, `orm`, `architecture`, `cache`, `sql`, `nosql`
+
+- [MedicalClinicAPI](https://github.com/antonioscript/MedicalClinicAPI)  
+  Modular .NET application simulating a medical clinic system. Includes RESTful APIs, MediatR, Clean Architecture, PostgreSQL, Redis cache, CQRS, and Entity Framework.  
+  Tags: `dotnet`, `api`, `clean-architecture`, `mediatr`, `cqrs`, `postgresql`, `redis`, `entity-framework`, `architecture`, `cache`, `sql`
+
+- [Microservices.AKS.Devops](https://github.com/antonioscript/Microservices.AKS.Devops)  
+  Microservices project with .NET APIs deployed on Azure Kubernetes Service (AKS) with CI/CD pipelines. Includes Docker, Kubernetes, Redis, PostgreSQL, RabbitMQ, and DevOps infrastructure as code.  
+  Tags: `dotnet`, `api`, `microservices`, `aks`, `kubernetes`, `devops`, `azure`, `ci-cd`, `rabbitmq`, `redis`, `postgresql`, `cloud`, `infrastructure`, `sql`, `messaging`, `containers`
+
+- [RedisAPI.NET](https://github.com/antonioscript/RedisAPI.NET)  
+  .NET API example that demonstrates integration with Redis for caching and fast data retrieval. Useful for scenarios requiring low-latency key-value access.  
+  Tags: `redis`, `nosql`, `caching`, `dotnet`, `api`, `performance`
 
 ---
 
@@ -123,13 +138,16 @@
 ---
 
 ## Templates and Boilerplates
-<!-- Starters, Microservice skeletons -->
+
+- [Curso-Csharp-Dotnet](https://github.com/antonioscript/Curso-Csharp-Dotnet)  
+  A complete C# and .NET learning repository covering syntax, object-oriented programming, data structures, and platform basics. Useful as a study base or quick reference.  
+  Tags: `dotnet`, `csharp`, `learning`, `fundamentals`, `oop`, `curso`
 
 ---
 
 ## Global Tags
 
-`dotnet` · `nodejs` · `api` · `cloud` · `devops` · `auth` · `messaging` · `scheduler` · `architecture` · `testing` · `middleware` · `nosql` · `sql` · `database` · `rabbitmq` · `event-driven` · `microservices` · `aws` · `sqs` · `vscode` · `developer-tools` · `mediator` · `cqrs` · `redis` · `caching` · `performance`
+`dotnet` · `nodejs` · `api` · `cloud` · `devops` · `auth` · `messaging` · `scheduler` · `architecture` · `testing` · `middleware` · `nosql` · `sql` · `database` · `rabbitmq` · `event-driven` · `microservices` · `aws` · `sqs` · `vscode` · `developer-tools` · `mediator` · `cqrs` · `redis` · `caching` · `performance` · `azure` · `ci-cd` · `kubernetes` · `containers` · `postgresql` · `mongodb` · `marten` · `entity-framework` · `orm` · `clean-architecture`
 
 ---
 
