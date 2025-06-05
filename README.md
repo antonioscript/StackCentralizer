@@ -83,23 +83,6 @@
 
 ---
 
-## Job Scheduling and Background Tasks
-
-- [API.Hangfire.NET](https://github.com/antonioscript/API.Hangfire.NET)  
-  Background job processing in .NET using Hangfire. Includes scheduled tasks, retries, dashboard UI, and integration with ASP.NET APIs.  
-  Tags: `dotnet`, `hangfire`, `jobs`, `background-tasks`, `scheduler`, `queue`, `aspnetcore`
-
-
----
-
-## Authentication and Authorization
-
-- [ApiWebIdentity](https://github.com/antonioscript/ApiWebIdentity)  
-  ASP.NET Core API demonstrating authentication and authorization using ASP.NET Identity. Includes user registration, JWT, claims, and role-based access control.  
-  Tags: `dotnet`, `aspnetcore`, `authentication`, `authorization`, `identity`, `jwt`, `security`
-
----
-
 ## Cloud and DevOps
 
 ### AWS
@@ -227,6 +210,23 @@
   Implementation of the Unit of Work and Repository patterns in .NET. Useful for managing transactions and consistency across multiple repositories.  
   Tags: `dotnet`, `unit-of-work`, `repository-pattern`, `architecture`, `design-patterns`, `transaction`
 
+
+---
+
+## Job Scheduling and Background Tasks
+
+- [API.Hangfire.NET](https://github.com/antonioscript/API.Hangfire.NET)  
+  Background job processing in .NET using Hangfire. Includes scheduled tasks, retries, dashboard UI, and integration with ASP.NET APIs.  
+  Tags: `dotnet`, `hangfire`, `jobs`, `background-tasks`, `scheduler`, `queue`, `aspnetcore`
+
+
+---
+
+## Authentication and Authorization
+
+- [ApiWebIdentity](https://github.com/antonioscript/ApiWebIdentity)  
+  ASP.NET Core API demonstrating authentication and authorization using ASP.NET Identity. Includes user registration, JWT, claims, and role-based access control.  
+  Tags: `dotnet`, `aspnetcore`, `authentication`, `authorization`, `identity`, `jwt`, `security`
 
 ---
 
