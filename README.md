@@ -34,6 +34,11 @@
   .NET Minimal API example for simple CRUD operations using a lightweight HTTP interface. Demonstrates practical usage of modern .NET endpoints.  
   Tags: `dotnet`, `api`, `minimal-api`, `rest`, `crud`, `lightweight`
 
+- [RelationshipsAPI](https://github.com/antonioscript/RelationshipsAPI/tree/master)  
+  Demonstrates relationship handling in .NET Minimal API. Covers one-to-one, one-to-many, and many-to-many entity mappings using EF Core.  
+  Tags: `dotnet`, `api`, `minimal-api`, `relationships`, `entity-framework`, `ef-core`, `database`
+
+
 ---
 
 ## Messaging and Event-Driven Architecture
