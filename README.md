@@ -76,6 +76,17 @@
   Integration with AWS Simple Queue Service (SQS) using .NET. Demonstrates sending and receiving messages through AWS-managed queues with configuration and message handling.  
   Tags: `aws`, `sqs`, `cloud`, `messaging`, `dotnet`
 
+### Azure
+
+- [Azure.NET](https://github.com/antonioscript/Azure.NET)  
+  Centralized index of Azure-related projects using .NET technologies. Serves as a launch point for exploring services such as Blob Storage, AKS, CI/CD, and other cloud-native patterns in Azure.  
+  Tags: `azure`, `cloud`, `dotnet`, `centralizer`, `index`, `devops`, `infrastructure`
+
+- [AzureBlobStorage](https://github.com/antonioscript/AzureBlobStorage)  
+  .NET implementation for interacting with Azure Blob Storage. Demonstrates file upload, download, container configuration, and secure access.  
+  Tags: `azure`, `blob-storage`, `cloud`, `storage`, `dotnet`, `files`, `containers`
+
+
 ---
 
 ## Data and Storage
