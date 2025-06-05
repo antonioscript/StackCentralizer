@@ -124,7 +124,10 @@
 ---
 
 ## Testing and Code Quality
-<!-- Unit Tests, Integration Tests, TestContainers -->
+
+- [Dotnet.Tests](https://github.com/antonioscript/Dotnet.Tests)  
+  Unit testing examples in .NET using xUnit and related tools. Demonstrates test organization, assertions, dependency mocking, and general testing strategies.  
+  Tags: `dotnet`, `testing`, `unit-tests`, `xunit`, `moq`, `code-quality`, `tdd`
 
 ---
 
@@ -159,7 +162,7 @@
 
 ## Global Tags
 
-`dotnet` · `nodejs` · `nestjs` · `typescript` · `api` · `cloud` · `devops` · `auth` · `messaging` · `scheduler` · `architecture` · `testing` · `middleware` · `nosql` · `sql` · `database` · `rabbitmq` · `event-driven` · `microservices` · `aws` · `sqs` · `vscode` · `developer-tools` · `mediator` · `cqrs` · `redis` · `caching` · `performance` · `azure` · `ci-cd` · `kubernetes` · `containers` · `postgresql` · `mongodb` · `marten` · `entity-framework` · `orm` · `clean-architecture` · `fundamentals` · `boilerplate`
+`dotnet` · `nodejs` · `nestjs` · `typescript` · `api` · `cloud` · `devops` · `auth` · `messaging` · `scheduler` · `architecture` · `testing` · `middleware` · `nosql` · `sql` · `database` · `rabbitmq` · `event-driven` · `microservices` · `aws` · `sqs` · `vscode` · `developer-tools` · `mediator` · `cqrs` · `redis` · `caching` · `performance` · `azure` · `ci-cd` · `kubernetes` · `containers` · `postgresql` · `mongodb` · `marten` · `entity-framework` · `orm` · `clean-architecture` · `fundamentals` · `boilerplate` · `unit-tests` · `tdd` · `xunit` · `moq` · `code-quality`
 
 ---
 
