@@ -190,7 +190,7 @@
 
 - [DinamicAPI.NoSQL.NET](https://github.com/antonioscript/DinamicAPI.NoSQL.NET)  
   API created to simulate request and sending of dynamic objects and storing in the NoSQL Data MongoDB and DynamoDB
- `mongodb`, `nosql`, `dotnet`, `database`, `dinamodb`,`dinamic`
+  Tags: `mongodb`, `nosql`, `dotnet`, `database`, `dinamodb`,`dinamic`
 
 ### ORM and Data Access
 
