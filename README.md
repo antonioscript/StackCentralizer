@@ -188,9 +188,9 @@
   Integration of MongoDB in a .NET application using the official driver. Includes models, repositories, and connection setup.  
   Tags: `mongodb`, `nosql`, `dotnet`, `database`
 
-- [DinamicAPI.NET](https://github.com/antonioscript/DinamicAPI.NET)  
-  API created to simulate request and sending of dynamic objects and storing in the NoSQL Bank MongoDB
- `mongodb`, `nosql`, `dotnet`, `database`, `dinamic`
+- [DinamicAPI.NoSQL.NET](https://github.com/antonioscript/DinamicAPI.NoSQL.NET)  
+  API created to simulate request and sending of dynamic objects and storing in the NoSQL Data MongoDB and DynamoDB
+ `mongodb`, `nosql`, `dotnet`, `database`, `dinamodb`,`dinamic`
 
 ### ORM and Data Access
 
@@ -286,7 +286,7 @@
 
 ## Global Tags
 
-`ak` · `alb` · `api` · `api-gateway` · `architecture` · `aspnetcore` · `authentication` · `authorization` · `aws` · `azure` · `background-tasks` · `boilerplate` · `cache` · `caching` · `centralizer` · `cheatsheet` · `ci-cd` · `clean-architecture` · `cloud` · `cluster` · `code-quality` · `compute` · `containers` · `course` · `crud` · `csharp` · `database` · `data-access` · `design-patterns` · `developer-tools` · `devops` · `dns` · `docker` · `domain` · `dotnet` · `ecs` · `editor` · `ef-core` · `elb` · `entity-framework` · `essentials` · `event-driven` · `fargate` · `files` · `functions` · `fundamentals` · `gateway` · `hangfire` · `heroes` · `identity` · `index` · `infrastructure` · `javascript` · `jobs` · `jq` · `jwt` · `kubernetes` · `language` · `learning` · `linq` · `load-balancer` · `logging` · `mapper` · `masstransit` · `mediator` · `mediatR` · `messaging` · `metrics` · `microservices` · `minimal-api` · `migrations` · `moq` · `monitoring` · `mongodb` · `marten` · `networking` · `nestjs` · `nodejs` · `nosql` · `notifications` · `oauth` · `onion-architecture` · `oop` · `orm` · `performance` · `pg` · `postgresql` · `policies` · `productivity` · `pubsub` · `queue` · `queries` · `rabbitmq` · `reference` · `relational-db` · `repository-pattern` · `rest` · `roles` · `route53` · `scheduler` · `security` · `serverless` · `setup` · `snippets` · `sql` · `starter` · `storage` · `study` · `template`, `dinamic`
+`ak` · `alb` · `api` · `api-gateway` · `architecture` · `aspnetcore` · `authentication` · `authorization` · `aws` · `azure` · `background-tasks` · `boilerplate` · `cache` · `caching` · `centralizer` · `cheatsheet` · `ci-cd` · `clean-architecture` · `cloud` · `cluster` · `code-quality` · `compute` · `containers` · `course` · `crud` · `csharp` · `database` · `data-access` · `design-patterns` · `developer-tools` · `devops` · `dns` · `docker` · `domain` · `dotnet` · `ecs` · `editor` · `ef-core` · `elb` · `entity-framework` · `essentials` · `event-driven` · `fargate` · `files` · `functions` · `fundamentals` · `gateway` · `hangfire` · `heroes` · `identity` · `index` · `infrastructure` · `javascript` · `jobs` · `jq` · `jwt` · `kubernetes` · `language` · `learning` · `linq` · `load-balancer` · `logging` · `mapper` · `masstransit` · `mediator` · `mediatR` · `messaging` · `metrics` · `microservices` · `minimal-api` · `migrations` · `moq` · `monitoring` · `mongodb` · `marten` · `networking` · `nestjs` · `nodejs` · `nosql` · `notifications` · `oauth` · `onion-architecture` · `oop` · `orm` · `performance` · `pg` · `postgresql` · `policies` · `productivity` · `pubsub` · `queue` · `queries` · `rabbitmq` · `reference` · `relational-db` · `repository-pattern` · `rest` · `roles` · `route53` · `scheduler` · `security` · `serverless` · `setup` · `snippets` · `sql` · `starter` · `storage` · `study` · `template`, `dinamic`, `dinamodb`
 
 
 ---
