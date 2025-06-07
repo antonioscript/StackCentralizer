@@ -159,7 +159,7 @@
   Centralized index of Azure-related projects using .NET technologies. Serves as a launch point for exploring services such as Blob Storage, AKS, CI/CD, and other cloud-native patterns in Azure.  
   Tags: `azure`, `cloud`, `dotnet`, `centralizer`, `index`, `devops`, `infrastructure`
 
-  - [Azure.AWS](https://github.com/antonioscript/Azure.AWS)  
+- [Azure.AWS](https://github.com/antonioscript/Azure.AWS)  
   Azure.AWS is a comparative guide that highlights the key differences and similarities between Microsoft Azure and Amazon Web Services (AWS)  
   Tags: `azure`, `cloud`,`devops`, `infrastructure`, `aws`
 
