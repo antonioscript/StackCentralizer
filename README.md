@@ -274,8 +274,9 @@
   Tags: `nestjs`, `typescript`, `nodejs`, `learning`, `study`, `backend-framework`
 
 - [CustomLibrary.NET](https://github.com/antonioscript/CustomLibrary.NET)  
-  A reusable .NET library designed to simplify and standardize common operations across multiple applications. Built for modularity, maintainability, and scalability.
+  A reusable .NET library designed to simplify and standardize common operations across multiple applications.  
   Tags: `dotnet`, `library`,  `nuget`,  `package`
+
 
 - [DefaultSystem](https://github.com/antonioscript/DefaultSystem)  
   Standard .NET source code template for building APIs following the Onion Architecture pattern. Includes layered organization, abstractions, and clean separation of concerns.  
